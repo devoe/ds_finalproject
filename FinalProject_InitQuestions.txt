@@ -1,0 +1,31 @@
+Complete project question and dataset (due by 09.07). Create a GitHub repository for your project. It should include a short write-up that answers these questions:
+
+    What is the question you hope to answer?
+    
+        Can we use the language of forum members to predict future behavior? Can we predict by
+        the type of language/actions people take on the forum who will cause problems or need to be
+        banned? Can we predict what type of people tend to donate or volunteer more to keep the forum 
+        running by looking at language? Is there behavior on a forum that can help administrators 
+        identify positive or negative 
+        forum members?
+        
+        
+    What data are you planning to use to answer that question?
+    
+        A friend of mine created and was an admin for a very popular local Los Angeles 
+        electronic music forum. He has the entire site stored in a database. I would like
+        to use old posts to determine if the language/actions in the posts can help identify 
+        most likely what type of forum member the user would be. 
+        
+    What do you know about the data so far?
+        
+        In the brief conversation that I had with my friend I just found out the data is stored in a 
+        database. He has all of the old posts, messages, admin actions stored as well. Not really 
+        sure about anything more.
+        
+    Why did you choose this topic?
+        
+        The database was readily available to me. I feel like being able to predict future behavior from 
+        current language and actions would be a valuable assest to forum administrators. I'm not 
+        really sure how the data is stored in the database, so learning to clean the data would provide me
+        a great challenge. Getting more practice using classifier models is also a plus here. 
